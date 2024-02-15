@@ -1,0 +1,21 @@
+{
+  "name": "brown-orange-theme",
+  "displayName": "Brown-Orange Theme",
+  "description": "Brown-Orange Theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Brown-Orange Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Brown-Orange Theme-color-theme.json"
+      }
+    ]
+  }
+}
